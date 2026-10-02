@@ -1,7 +1,7 @@
 # Sistemas de Potencia - Programación Avanzada
 
 **Autores:** Vicente Flores y Paulina Collao  
-**Curso:** Sistemas de Potencia
+**Proyecto:** Sistemas de Potencia
 **Asignatura:** Programación Avanzada 
 
 ---
