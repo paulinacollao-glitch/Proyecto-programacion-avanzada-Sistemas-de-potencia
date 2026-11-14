@@ -59,4 +59,8 @@ print(g1.get_potencia())   # Salida: 100
 print(g1.get_costo_op())   # Salida: 25
 print(c1.get_demanda())    # Salida: 80
 
-###Ejemplos de uso de hito 2 se encuentran en branch hito_2
+```
+
+### Ejemplos de uso del Hito 2
+
+Los ejemplos de implementación de Merge Sort, despacho económico uninodal y tablas hash se encuentran disponibles en la rama [hito_2](https://github.com/paulinacollao-glitch/Proyecto-programacion-avanzada-Sistemas-de-potencia/tree/hito_2) del repositorio.
