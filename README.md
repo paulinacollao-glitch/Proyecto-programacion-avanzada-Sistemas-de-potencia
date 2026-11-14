@@ -58,3 +58,5 @@ c1 = Carga(
 print(g1.get_potencia())   # Salida: 100
 print(g1.get_costo_op())   # Salida: 25
 print(c1.get_demanda())    # Salida: 80
+
+###Ejemplos de uso de hito 2 se encuentran en branch hito_2
